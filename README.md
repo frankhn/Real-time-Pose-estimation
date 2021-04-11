@@ -8,7 +8,8 @@ Install open-cv and mediapipe
 
 ## Running the program
 
-``` python3 PoseModule.py
+``` 
+python3 PoseModule.py
 ```
 
 ## Licence
